@@ -34,6 +34,7 @@
       }
     </style>
     <script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
+    <script src="https://unpkg.com/uuid@latest/dist/umd/uuidv4.min.js"></script>
   </head>
   <body>
     <div id="app" class="container" style="margin-top: 60px; max-width: 720px">
@@ -60,6 +61,16 @@
   </body>
   <script src="businesses.js"></script>
   <script>
+    function addId() {
+      for (const industry in businesses) {
+        businesses[industry] = businesses[industry].map(business => ({
+          id: uuidv4(),
+          ...business,
+        }));
+      }
+      Object.freeze(businesses);
+    }
+
     function groupBy(objectArray, property) {
       return objectArray.reduce(function (acc, obj) {
         let key = obj[property];
@@ -76,6 +87,9 @@
       data: {
         searchString: '',
         businesses: businesses,
+      },
+      beforeCreate() {
+        addId();
       },
       watch: {
         searchString: function () {
