@@ -16,11 +16,13 @@ var businesses = Object.freeze({
       id: 3,
       product: 'Central Hotel Yangon',
       industry: 'Entertainment/Tourism',
+      googleReviewUrl: 'https://www.google.com/travel/hotels/entity/CgsIuvWX--P-p8DuARAB/reviews'
     },
     {
       id: 4,
       product: 'Nan Myaing Café (Pwin Oo Lwin)',
       industry: 'Entertainment/Tourism',
+      googleReviewUrl: 'https://www.google.com/search?q=Nan%2BMyaing%2BCaf%C3%A9&oq=Nan%2BMyaing%2BCaf%C3%A9#lrd=0x30cc9e805d975e9f:0x5f69c1bcb1f4394d,1,,,'
     },
     {
       id: 31,

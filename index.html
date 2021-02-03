@@ -54,6 +54,18 @@
           <header>
             <p class="card-header-title subtitle is-6">{{ item.product }}</p>
           </header>
+          <div
+            class="card-content px-4 pb-4 pt-1"
+            v-if="item.googleReviewUrl">
+              <a
+                v-if="item.googleReviewUrl"
+                :href="item.googleReviewUrl"
+                class="has-text-weight-semibold"
+                rel="noopener noreferrer nofollow"
+                target="_blank">
+                Google Reviews
+              </a>
+          </div>
         </div>
       </div>
     </div>
