@@ -1,0 +1,47 @@
+[
+  {
+    "id": 20,
+    "product": "Kan Thar Yar Hospital",
+    "industry": "Health Servcies"
+  },
+  {
+    "id": 102,
+    "product": "Defence Services General Hospital",
+    "industry": "Health Servcies"
+  },
+  {
+    "id": 103,
+    "product": "Defence Services Liver Hospital",
+    "industry": "Health Servcies"
+  },
+  {
+    "id": 104,
+    "product": "Defence Services Medical Research Centre",
+    "industry": "Health Servcies"
+  },
+  {
+    "id": 105,
+    "product": "Defence Services Obstetrics, Gynaecology and Child Health Hospital",
+    "industry": "Health Servcies"
+  },
+  {
+    "id": 106,
+    "product": "Defence Services Orthopaedics Hospital",
+    "industry": "Health Servcies"
+  },
+  {
+    "id": 107,
+    "product": "Military Institute of Nursing and Paramedical Science",
+    "industry": "Health Servcies"
+  },
+  {
+    "id": 108,
+    "product": "No.2 Military Hospital",
+    "industry": "Health Servcies"
+  },
+  {
+    "id": 109,
+    "product": "Thamadaw Special Clinic",
+    "industry": "Health Servcies"
+  }
+]
