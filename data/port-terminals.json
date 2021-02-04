@@ -1,0 +1,52 @@
+[
+  {
+    "id": 57,
+    "product": "Ahlone International Port Terminal 1, Yangon",
+    "industry": "Port"
+  },
+  {
+    "id": 58,
+    "product": "Hteedan International Port Terminal, Yangon",
+    "industry": "Port"
+  },
+  {
+    "id": 75,
+    "product": "Container Transport and Port Clearance Yard (Ywama)",
+    "industry": "Port"
+  },
+  {
+    "id": 76,
+    "product": "Five Star Shipping Company",
+    "industry": "Port"
+  },
+  {
+    "id": 77,
+    "product": "Hlaing Dry Port, Inland Container Depot (IDC) and Logistics Centre",
+    "industry": "Port"
+  },
+  {
+    "id": 114,
+    "product": "Inland Container Depot (IDC) Hlaing Thar Yar",
+    "industry": "Port"
+  },
+  {
+    "id": 115,
+    "product": "Lann Pyi Marine",
+    "industry": "Port"
+  },
+  {
+    "id": 116,
+    "product": "MEC Container Transport",
+    "industry": "Port"
+  },
+  {
+    "id": 117,
+    "product": "Thilawa Shipbreaking Yard",
+    "industry": "Port"
+  },
+  {
+    "id": 118,
+    "product": "TMT Port Terminal, Yangon",
+    "industry": "Port"
+  }
+]
