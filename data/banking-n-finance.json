@@ -1,0 +1,32 @@
+[
+  {
+    "id": 21,
+    "product": "Mytel Pay",
+    "industry": "Banking and finance"
+  },
+  {
+    "id": 71,
+    "product": "Innwa Bank",
+    "industry": "Banking and finance"
+  },
+  {
+    "id": 86,
+    "product": "Aung Myint Moh Min Insurance",
+    "industry": "Banking and finance"
+  },
+  {
+    "id": 87,
+    "product": "Aung Thitsar Oo Insurance",
+    "industry": "Banking and finance"
+  },
+  {
+    "id": 88,
+    "product": "Myanmar Mobile Money",
+    "industry": "Banking and finance"
+  },
+  {
+    "id": 89,
+    "product": "Myawaddy Bank",
+    "industry": "Banking and finance"
+  }
+]

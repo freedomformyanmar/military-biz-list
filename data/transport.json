@@ -1,0 +1,72 @@
+[
+  {
+    "id": 18,
+    "product": "Shwe Man Thu Highway Bus Station",
+    "industry": "Transport"
+  },
+  {
+    "id": 62,
+    "product": "Parami CNG Station",
+    "industry": "Transport"
+  },
+  {
+    "id": 63,
+    "product": "Parami Express",
+    "industry": "Transport"
+  },
+  {
+    "id": 64,
+    "product": "Parami Taxi",
+    "industry": "Transport"
+  },
+  {
+    "id": 65,
+    "product": "Pathein Thu Express",
+    "industry": "Transport"
+  },
+  {
+    "id": 66,
+    "product": "Sales and Service Centre, Mingalardon Township, Yangon (vehicle repairs and spare parts)",
+    "industry": "Transport"
+  },
+  {
+    "id": 67,
+    "product": "Shan Ma Lay Express",
+    "industry": "Transport"
+  },
+  {
+    "id": 68,
+    "product": "Shwe Mann Thu Express (also spelt Shwe Man Thu)",
+    "industry": "Transport"
+  },
+  {
+    "id": 69,
+    "product": "Shwe Myaing Thu Express",
+    "industry": "Transport"
+  },
+  {
+    "id": 70,
+    "product": "Than Myan Thu Express",
+    "industry": "Transport"
+  },
+  {
+    "id": 145,
+    "product": "Adipati (AAPT) Waterway Transport",
+    "industry": "Transport"
+  },
+  {
+    "id": 146,
+    "product": "Bandoola Taxi",
+    "industry": "Transport"
+  },
+  {
+    "id": 147,
+    "product": "Bandoola Transportation",
+    "industry": "Transport"
+  },
+  {
+    "id": 148,
+    "product": "City Liner Bus Services",
+    "industry": "Transport"
+  }
+]
