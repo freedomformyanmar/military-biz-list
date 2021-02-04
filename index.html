@@ -82,13 +82,13 @@
           var obj = {};
           Object.entries(businesses)
             .map(([key, arr]) => {
-              return arr.filter(el => {
+              return arr.filter((el) => {
                 var regex = new RegExp(this.searchString, 'gi');
-                return regex.test(el.product);
+                return regex.test(el.product) || regex.test(el.industry);
               });
             })
-            .filter(el => el.length > 0)
-            .forEach(el => {
+            .filter((el) => el.length > 0)
+            .forEach((el) => {
               if (obj[el[0].industry]) {
                 obj[el[0].industry].push(...el);
               } else {
