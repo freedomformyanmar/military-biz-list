@@ -2,34 +2,27 @@
     "title": "Banking and Finance"
   }, {
     "id": 21,
-    "product": "Mytel Pay",
-    "industry": "Banking and finance"
+    "product": "Mytel Pay"
 
   },
   {
     "id": 71,
-    "product": "Innwa Bank",
-    "industry": "Banking and finance"
+    "product": "Innwa Bank"
   },
   {
     "id": 86,
-    "product": "Aung Myint Moh Min Insurance",
-    "industry": "Banking and finance"
-
+    "product": "Aung Myint Moh Min Insurance"
   },
   {
     "id": 87,
-    "product": "Aung Thitsar Oo Insurance",
-    "industry": "Banking and finance"
+    "product": "Aung Thitsar Oo Insurance"
   },
   {
     "id": 88,
-    "product": "Myanmar Mobile Money",
-    "industry": "Banking and finance"
+    "product": "Myanmar Mobile Money"
   },
   {
     "id": 89,
-    "product": "Myawaddy Bank",
-    "industry": "Banking and finance"
+    "product": "Myawaddy Bank"
   }
 ]

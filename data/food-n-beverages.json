@@ -4,43 +4,35 @@
 
   {
     "id": 5,
-    "product": "Andaman Gold Blue",
-    "industry": "Food and drink"
+    "product": "Andaman Gold Blue"
   },
   {
     "id": 6,
-    "product": "Andaman Gold Special",
-    "industry": "Food and drink"
+    "product": "Andaman Gold Special"
   },
   {
     "id": 7,
-    "product": "Black Shield Stout",
-    "industry": "Food and drink"
+    "product": "Black Shield Stout"
   },
   {
     "id": 8,
-    "product": "Kirin Ichiban",
-    "industry": "Food and drink"
+    "product": "Kirin Ichiban"
   },
   {
     "id": 9,
-    "product": "Mandalay Beer",
-    "industry": "Food and drink"
+    "product": "Mandalay Beer"
   },
   {
     "id": 10,
-    "product": "Mandalay Spirulina Anti-aging Beer",
-    "industry": "Food and drink"
+    "product": "Mandalay Spirulina Anti-aging Beer"
   },
   {
     "id": 11,
-    "product": "Myanmar Beer",
-    "industry": "Food and drink"
+    "product": "Myanmar Beer"
   },
   {
     "id": 12,
-    "product": "Myanmar Brewery",
-    "industry": "Food and drink"
+    "product": "Myanmar Brewery"
   },
   {
     "id": 13,
@@ -49,147 +41,118 @@
   },
   {
     "id": 14,
-    "product": "Nan Myaing Coffee",
-    "industry": "Food and drink"
+    "product": "Nan Myaing Coffee"
   },
   {
     "id": 15,
-    "product": "Nay Pyi Taw Water",
-    "industry": "Food and drink"
+    "product": "Nay Pyi Taw Water"
   },
   {
     "id": 16,
-    "product": "Ngwe Pin Lei Premium Marine Products",
-    "industry": "Food and drink"
+    "product": "Ngwe Pin Lei Premium Marine Products"
   },
   {
     "id": 34,
-    "product": "Dagon Beverages",
-    "industry": "Food and drink"
+    "product": "Dagon Beverages"
   },
   {
     "id": 35,
-    "product": "Dagon Dairy Plant",
-    "industry": "Food and drink"
+    "product": "Dagon Dairy Plant"
   },
   {
     "id": 36,
-    "product": "Dagon Extra Strong Beer",
-    "industry": "Food and drink"
+    "product": "Dagon Extra Strong Beer"
   },
   {
     "id": 37,
-    "product": "Dagon Fresh Lemon Sparkling",
-    "industry": "Food and drink"
+    "product": "Dagon Fresh Lemon Sparkling"
   },
   {
     "id": 38,
-    "product": "Dagon Fresh Soda",
-    "industry": "Food and drink"
+    "product": "Dagon Fresh Soda"
   },
   {
     "id": 39,
-    "product": "Dagon Gin",
-    "industry": "Food and drink"
+    "product": "Dagon Gin"
   },
   {
     "id": 40,
-    "product": "Dagon Lager Beer",
-    "industry": "Food and drink"
+    "product": "Dagon Lager Beer"
   },
   {
     "id": 41,
-    "product": "Dagon Light Lager Beer",
-    "industry": "Food and drink"
+    "product": "Dagon Light Lager Beer"
   },
   {
     "id": 42,
-    "product": "Dagon Malta Fresh",
-    "industry": "Food and drink"
+    "product": "Dagon Malta Fresh"
   },
   {
     "id": 43,
-    "product": "Dagon Rum",
-    "industry": "Food and drink"
+    "product": "Dagon Rum"
   },
   {
     "id": 44,
-    "product": "Dagon Single Malt Lager Beer",
-    "industry": "Food and drink"
+    "product": "Dagon Single Malt Lager Beer"
   },
   {
     "id": 45,
-    "product": "Dagon Super Lager Beer",
-    "industry": "Food and drink"
+    "product": "Dagon Super Lager Beer"
   },
   {
     "id": 46,
-    "product": "Mandalay Brewery",
-    "industry": "Food and drink"
+    "product": "Mandalay Brewery"
   },
   {
     "id": 47,
-    "product": "Mandalay Strong Beer",
-    "industry": "Food and drink"
+    "product": "Mandalay Strong Beer"
   },
   {
     "id": 48,
-    "product": "Mandalay Super Fresh Lager",
-    "industry": "Food and drink"
+    "product": "Mandalay Super Fresh Lager"
   },
   {
     "id": 49,
-    "product": "MEC Myanmar Rice",
-    "industry": "Food and drink"
+    "product": "MEC Myanmar Rice"
   },
   {
     "id": 50,
-    "product": "Moon Dairy Creamer",
-    "industry": "Food and drink"
+    "product": "Moon Dairy Creamer"
   },
   {
     "id": 51,
-    "product": "Pyin Oo Lwin Coffee",
-    "industry": "Food and drink"
+    "product": "Pyin Oo Lwin Coffee"
   },
   {
     "id": 52,
-    "product": "Royal Karaweik Sugar",
-    "industry": "Food and drink"
+    "product": "Royal Karaweik Sugar"
   },
   {
     "id": 53,
-    "product": "Seven7 Condensed Milk",
-    "industry": "Food and drink"
+    "product": "Seven7 Condensed Milk"
   },
   {
     "id": 54,
-    "product": "Shwe Phe Oo Teamix",
-    "industry": "Food and drink"
+    "product": "Shwe Phe Oo Teamix"
   },
   {
     "id": 55,
-    "product": "Sugarmec",
-    "industry": "Food and drink"
+    "product": "Sugarmec"
   },
   {
     "id": 56,
-    "product": "Sun Condensed Milk",
-    "industry": "Food and drink"
+    "product": "Sun Condensed Milk"
   },
   {
     "id": 95,
-    "product": "Adipati Rice (AAPT Rice)",
-    "industry": "Food and drink"
+    "product": "Adipati Rice (AAPT Rice)"
   },
   {
     "id": 96,
-    "product": "Akasi Long Grain Rice",
-    "industry": "Food and drink"
+    "product": "Akasi Long Grain Rice"
   },
   {
     "id": 97,
-    "product": "Fleur Marguerite Sunflower Rice",
-    "industry": "Food and drink"
+    "product": "Fleur Marguerite Sunflower Rice"
   }
 ]

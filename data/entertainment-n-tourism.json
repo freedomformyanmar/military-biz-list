@@ -4,67 +4,54 @@
 
   {
     "id": 3,
-    "product": "Central Hotel Yangon",
-    "industry": "Entertainment/Tourism"
+    "product": "Central Hotel Yangon"
   },
   {
     "id": 4,
-    "product": "Nan Myaing Café (Pwin Oo Lwin)",
-    "industry": "Entertainment/Tourism"
+    "product": "Nan Myaing Café (Pwin Oo Lwin)"
   },
   {
     "id": 31,
-    "product": "Diamond White Restaurant Yangon",
-    "industry": "Entertainment/Tourism"
+    "product": "Diamond White Restaurant Yangon"
   },
   {
     "id": 32,
-    "product": "Hanthawaddy Golf Course",
-    "industry": "Entertainment/Tourism"
+    "product": "Hanthawaddy Golf Course"
   },
   {
     "id": 33,
-    "product": "Indoor Skydiving",
-    "industry": "Entertainment/Tourism"
+    "product": "Indoor Skydiving"
   },
   {
     "id": 72,
-    "product": "Myawaddy Tours and Travel",
-    "industry": "Entertainment/Tourism"
+    "product": "Myawaddy Tours and Travel"
   },
   {
     "id": 73,
-    "product": "Myawaddy Travels and Tours",
-    "industry": "Entertainment/Tourism"
+    "product": "Myawaddy Travels and Tours"
   },
   {
     "id": 74,
-    "product": "Okkala Golf Resort",
-    "industry": "Entertainment/Tourism"
+    "product": "Okkala Golf Resort"
   },
   {
     "id": 90,
-    "product": "Royal Sportainment Bowling Alley",
-    "industry": "Entertainment/Tourism"
+    "product": "Royal Sportainment Bowling Alley"
   },
   {
     "id": 91,
-    "product": "Royal Sportainment Complex",
-    "industry": "Entertainment/Tourism"
+    "product": "Royal Sportainment Complex"
   },
   {
     "id": 92,
-    "product": "Royal Sportainment Ice Skating",
-    "industry": "Entertainment/Tourism"
+    "product": "Royal Sportainment Ice Skating"
   },
   {
     "id": 93,
-    "product": "Shwe Gandamar Ballroom (Pathein)",
-    "industry": "Entertainment/Tourism"
+    "product": "Shwe Gandamar Ballroom (Pathein)"
   },
   {
     "id": 94,
-    "product": "Shwe Gandamar Grand Ballroom (Yangon)",
-    "industry": "Entertainment/Tourism"
+    "product": "Shwe Gandamar Grand Ballroom (Yangon)"
   }
 ]

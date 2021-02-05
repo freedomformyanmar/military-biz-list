@@ -2,12 +2,10 @@
     "title": "Cigarettes"
   }, {
     "id": 1,
-    "product": "Premium Gold",
-    "industry": "Cigarettes"
+    "product": "Premium Gold"
   },
   {
     "id": 2,
-    "product": "Red Ruby",
-    "industry": "Cigarettes"
+    "product": "Red Ruby"
   }
 ]
