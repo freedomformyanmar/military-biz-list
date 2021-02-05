@@ -1,8 +1,10 @@
-[
-  {
+[{
+    "title": "Banking and Finance"
+  }, {
     "id": 21,
     "product": "Mytel Pay",
     "industry": "Banking and finance"
+
   },
   {
     "id": 71,
@@ -13,6 +15,7 @@
     "id": 86,
     "product": "Aung Myint Moh Min Insurance",
     "industry": "Banking and finance"
+
   },
   {
     "id": 87,
