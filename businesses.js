@@ -14,4 +14,5 @@ var businessJsonsPromises = [
   "trading-companies.json",
   "health-n-beauty-product.json",
   "industrial-estates-offices.json",
+  "education"
 ].map((i) => fetch(`data/${i}`).then((response) => response.json()));
