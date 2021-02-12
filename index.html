@@ -21,6 +21,7 @@
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css"
     />
+    <link rel="manifest" href="/manifest.json">
     <style>
       html,
       body {
@@ -34,6 +35,12 @@
       }
     </style>
     <script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
+    <!-- Register service worker -->
+    <script>
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('/service-worker.js');
+      }
+    </script>
   </head>
   <body>
     <div id="app" class="container" style="margin-top: 60px; max-width: 720px">
