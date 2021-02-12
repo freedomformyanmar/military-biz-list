@@ -50,7 +50,7 @@
       />
       <div v-for="(items, industry) in businesses">
         <h4 class="pt-5 pb-4 subtitle is-3">{{ industry }}</h4>
-        <div :key="item.id" v-for="item in items" class="card mb-2">
+        <div :key="item.id" v-for="item in getSortedItems(items)" class="card mb-2">
           <header>
             <p class="card-header-title subtitle is-6">{{ item.product }}</p>
           </header>
@@ -109,6 +109,11 @@
           searchString: "",
           businesses: businesses,
         },
+        methods: {
+           getSortedItems(items) {
+            return items && Array.from(items).sort((a, b) => a.product.localeCompare(b.product)); // alphabetically 
+          },
+        },  
         watch: {
           searchString: function () {
             var obj = {};
